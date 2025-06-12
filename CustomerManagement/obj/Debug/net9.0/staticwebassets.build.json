@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "gFW+zTBvPXDP6ib/Q3n4ROtZf0vKQ4fku7IOEzEISMY=",
+  "Source": "CustomerManagement",
+  "BasePath": "_content/CustomerManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

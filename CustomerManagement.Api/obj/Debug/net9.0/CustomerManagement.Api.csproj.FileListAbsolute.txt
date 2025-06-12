@@ -1,0 +1,11 @@
+E:\BN\CustomerManagement\CustomerManagement.Api\bin\Debug\net9.0\CustomerManagement.Api.deps.json
+E:\BN\CustomerManagement\CustomerManagement.Api\bin\Debug\net9.0\CustomerManagement.Api.dll
+E:\BN\CustomerManagement\CustomerManagement.Api\bin\Debug\net9.0\CustomerManagement.Api.pdb
+E:\BN\CustomerManagement\CustomerManagement.Api\obj\Debug\net9.0\CustomerManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\BN\CustomerManagement\CustomerManagement.Api\obj\Debug\net9.0\CustomerManagement.Api.AssemblyInfoInputs.cache
+E:\BN\CustomerManagement\CustomerManagement.Api\obj\Debug\net9.0\CustomerManagement.Api.AssemblyInfo.cs
+E:\BN\CustomerManagement\CustomerManagement.Api\obj\Debug\net9.0\CustomerManagement.Api.csproj.CoreCompileInputs.cache
+E:\BN\CustomerManagement\CustomerManagement.Api\obj\Debug\net9.0\CustomerManagement.Api.dll
+E:\BN\CustomerManagement\CustomerManagement.Api\obj\Debug\net9.0\refint\CustomerManagement.Api.dll
+E:\BN\CustomerManagement\CustomerManagement.Api\obj\Debug\net9.0\CustomerManagement.Api.pdb
+E:\BN\CustomerManagement\CustomerManagement.Api\obj\Debug\net9.0\ref\CustomerManagement.Api.dll

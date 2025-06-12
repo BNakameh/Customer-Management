@@ -1,0 +1,17 @@
+E:\BN\CustomerManagement\CustomerManagement.Infrastructure\bin\Debug\net9.0\CustomerManagement.Infrastructure.deps.json
+E:\BN\CustomerManagement\CustomerManagement.Infrastructure\bin\Debug\net9.0\CustomerManagement.Infrastructure.runtimeconfig.json
+E:\BN\CustomerManagement\CustomerManagement.Infrastructure\bin\Debug\net9.0\CustomerManagement.Infrastructure.dll
+E:\BN\CustomerManagement\CustomerManagement.Infrastructure\bin\Debug\net9.0\CustomerManagement.Infrastructure.pdb
+E:\BN\CustomerManagement\CustomerManagement.Infrastructure\bin\Debug\net9.0\CustomerManagement.Core.dll
+E:\BN\CustomerManagement\CustomerManagement.Infrastructure\bin\Debug\net9.0\CustomerManagement.Core.pdb
+E:\BN\CustomerManagement\CustomerManagement.Infrastructure\obj\Debug\net9.0\CustomerManagement.Infrastructure.csproj.AssemblyReference.cache
+E:\BN\CustomerManagement\CustomerManagement.Infrastructure\obj\Debug\net9.0\CustomerManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\BN\CustomerManagement\CustomerManagement.Infrastructure\obj\Debug\net9.0\CustomerManagement.Infrastructure.AssemblyInfoInputs.cache
+E:\BN\CustomerManagement\CustomerManagement.Infrastructure\obj\Debug\net9.0\CustomerManagement.Infrastructure.AssemblyInfo.cs
+E:\BN\CustomerManagement\CustomerManagement.Infrastructure\obj\Debug\net9.0\CustomerManagement.Infrastructure.csproj.CoreCompileInputs.cache
+E:\BN\CustomerManagement\CustomerManagement.Infrastructure\obj\Debug\net9.0\Customer.933B4B5A.Up2Date
+E:\BN\CustomerManagement\CustomerManagement.Infrastructure\obj\Debug\net9.0\CustomerManagement.Infrastructure.dll
+E:\BN\CustomerManagement\CustomerManagement.Infrastructure\obj\Debug\net9.0\refint\CustomerManagement.Infrastructure.dll
+E:\BN\CustomerManagement\CustomerManagement.Infrastructure\obj\Debug\net9.0\CustomerManagement.Infrastructure.pdb
+E:\BN\CustomerManagement\CustomerManagement.Infrastructure\obj\Debug\net9.0\CustomerManagement.Infrastructure.genruntimeconfig.cache
+E:\BN\CustomerManagement\CustomerManagement.Infrastructure\obj\Debug\net9.0\ref\CustomerManagement.Infrastructure.dll
